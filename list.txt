@@ -1,0 +1,12 @@
+List of Experiments:
+
+1. Write a program to detect tokens in a C program.
+2. Practice of LEX of Compiler writing.
+3. Write a program to check productions is from Regular Grammer or CFG or CSG.
+4. Write a program to check whether a string belongs to the grammar or not.
+5. Write a program to check whether a grammar is left recursive and remove left recursion.
+6. Write a program to remove left factoring.
+7. Write a program to compute FIRST and FOLLOW of non-ternminals.
+8. Write a program to check whether a grammar is Operator precedent.
+9. Practice of Yacc of Compiler writing.
+10. Write a YACC & LEX program to identify valid if and if-else statement.
